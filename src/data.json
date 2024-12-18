@@ -1,0 +1,15 @@
+{
+    "navbar.logo": "NavBar",
+    "navbar.search": "Search",
+    "navbar.login": "Login",
+
+    "presentation.title": "",
+    "presentation.description": "",
+    "presentation.image": "",
+    "presentation.social": [
+        { "name": "Facebook", "url": "https://facebook.com/", "class-icon": "fab fa-facebook-f", "class-button": "btn-primary" },
+        { "name": "Twitter", "url": "https://x.com/", "class-icon": "fab fa-twitter", "class-button": "btn-info" },
+        { "name": "Linkedin", "url": "https://www.linkedin.com", "class-icon": "fab fa-linkedin-in", "class-button": "btn-primary" },
+        { "name": "Instagram", "url": "https://www.instagram.com", "class-icon": "fab fa-instagram", "class-button": "btn-danger" }
+    ]
+}
